@@ -11,7 +11,6 @@ texto_1.innerText = " Olá, eu sou o Kauê Melenek da Costa Oliveira"
 
 
 
-
 var botao_2 = document.getElementById("2"); /* criar variavel para botão quando criamos uma id também, e usamos a função a partir do botão. Adicionar evento na função para saber quando o usuário clica ou passa pelo botão*/
 botao_2.addEventListener("click", () => [
     document.getElementById("textosobremim").innerHTML = "<div class = 'coluna'><p>Tecnólogo em Análise e Desenvolvimento de Sistemas (2024 - 2026) - UNINTER </p> <p>Bacharel em Ciências Biológicas (2020 - 2025) - UFPR </p><p>Técnico em Administração (2015) - SENAI </p> </div>",
