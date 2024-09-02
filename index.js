@@ -8,7 +8,7 @@ botao_1.addEventListener("click", () => [
     img_eu.style.backgroundSize = 'cover'
 ] )
 texto_1.innerText = " Olá, eu sou o Kauê Melenek da Costa Oliveira"
-texto_1.style = 'letter-spacing: 5px'
+
 
 
 
